@@ -5,4 +5,5 @@ branches:
 projects:
   SnowPM:
     path: ""
+    icon: "snow.webp"
 ...
